@@ -1,5 +1,5 @@
 #Plutonium
-## Project - Products Management
+## Project - Smart Cart
 
 ### Key points
 - In this project we will work feature wise. That means we pick one object like user, book, blog, etc at a time. We work through it's feature. The steps would be:
